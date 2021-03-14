@@ -1,0 +1,7 @@
+#Ignore the sql backup file and any settings,ogo abd settubgs backup files
+#
+
+my-detest.sql
+my-drupal-db-backup.sql
+sites/default/settings.php
+sites/default/settings.php.orig
